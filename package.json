@@ -1,5 +1,5 @@
 {
-  "name": "@sushiswap/sdk",
+  "name": "@pearzap/swap-sdk",
   "license": "MIT",
   "version": "5.0.0-canary.91",
   "description": "🛠 An SDK for building applications on top of SushiSwap.",
@@ -8,7 +8,10 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/sushiswap/sushiswap-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pearzap/sushiswap-sdk.git"
+  },
   "keywords": [
     "sushiswap",
     "ethereum",
@@ -81,5 +84,13 @@
   },
   "engines": {
     "node": ">=12"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/pearzap/sushiswap-sdk/issues"
+  },
+  "homepage": "https://github.com/pearzap/sushiswap-sdk#readme",
+  "directories": {
+    "test": "test"
+  },
+  "author": ""
 }
