@@ -99,6 +99,48 @@ export const SUSHI_ADDRESS: AddressMap = {
   [ChainId.PALM_TESTNET]: ''
 }
 
+export const PEAR_ADDRESS: AddressMap = {
+  [ChainId.MAINNET]: '',
+  [ChainId.ROPSTEN]: '',
+  [ChainId.RINKEBY]: '',
+  [ChainId.GÖRLI]: '',
+  [ChainId.KOVAN]: '',
+  [ChainId.FANTOM]: '0x7c10108d4b7f4bd659ee57a53b30df928244b354',
+  [ChainId.MATIC]: '0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44',
+  [ChainId.XDAI]: '',
+  [ChainId.BSC]: '0xdf7C18ED59EA738070E665Ac3F5c258dcc2FBad8',
+  [ChainId.ARBITRUM]: '',
+  [ChainId.AVALANCHE]: '',
+  [ChainId.HECO]: '',
+  [ChainId.HARMONY]: '',
+  [ChainId.OKEX]: '',
+  [ChainId.OKEX_TESTNET]: '',
+  [ChainId.CELO]: '',
+  [ChainId.PALM]: '',
+  [ChainId.PALM_TESTNET]: ''
+}
+
+export const JUIX_ADDRESS: AddressMap = {
+  [ChainId.MAINNET]: '',
+  [ChainId.ROPSTEN]: '',
+  [ChainId.RINKEBY]: '',
+  [ChainId.GÖRLI]: '',
+  [ChainId.KOVAN]: '',
+  [ChainId.FANTOM]: '0x7c10108d4b7f4bd659ee57a53b30df928244b354', // todo update address
+  [ChainId.MATIC]: '0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44', // todo update address
+  [ChainId.XDAI]: '',
+  [ChainId.BSC]: '0xdf7C18ED59EA738070E665Ac3F5c258dcc2FBad8', // todo update address
+  [ChainId.ARBITRUM]: '',
+  [ChainId.AVALANCHE]: '',
+  [ChainId.HECO]: '',
+  [ChainId.HARMONY]: '',
+  [ChainId.OKEX]: '',
+  [ChainId.OKEX_TESTNET]: '',
+  [ChainId.CELO]: '',
+  [ChainId.PALM]: '',
+  [ChainId.PALM_TESTNET]: ''
+}
+
 export const MASTERCHEF_ADDRESS: AddressMap = {
   [ChainId.MAINNET]: '0xc2EdaD668740f1aA35E4D8f227fB8E17dcA888Cd',
   [ChainId.ROPSTEN]: '0x80C7DD17B01855a6D2347444a0FCC36136a314de',
