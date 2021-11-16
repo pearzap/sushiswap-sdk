@@ -16,7 +16,7 @@ export const INIT_CODE_HASH: { [chainId: number]: string } = {
   [ChainId.GÖRLI]: '0x3cc9810117f616af982298be4cfcef3c58a6a58dba870ff3c09f5aab8287ab5c',
   [ChainId.KOVAN]: '0x3cc9810117f616af982298be4cfcef3c58a6a58dba870ff3c09f5aab8287ab5c',
   [ChainId.FANTOM]: '0x3cc9810117f616af982298be4cfcef3c58a6a58dba870ff3c09f5aab8287ab5c',
-  [ChainId.MATIC]: '0x3cc9810117f616af982298be4cfcef3c58a6a58dba870ff3c09f5aab8287ab5c',
+  [ChainId.MATIC]: '0x56d615879c9995e8ee317796b8b1b23fc2317d36828f0c4fea097afc675876c4',
   [ChainId.MATIC_TESTNET]: '0x3cc9810117f616af982298be4cfcef3c58a6a58dba870ff3c09f5aab8287ab5c',
   [ChainId.XDAI]: '0x3cc9810117f616af982298be4cfcef3c58a6a58dba870ff3c09f5aab8287ab5c',
   [ChainId.BSC]: '0x3cc9810117f616af982298be4cfcef3c58a6a58dba870ff3c09f5aab8287ab5c',
