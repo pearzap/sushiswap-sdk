@@ -37,7 +37,6 @@ You should see output like the following:
 ```sh
 yarn run v1.22.4
 $ tsdx test
- PASS  test/constants.test.ts
  PASS  test/pair.test.ts
  PASS  test/fraction.test.ts
  PASS  test/miscellaneous.test.ts
