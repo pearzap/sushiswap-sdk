@@ -157,10 +157,10 @@ export const JUIX_ADDRESS: AddressMap = {
   [ChainId.RINKEBY]: '',
   [ChainId.GÖRLI]: '',
   [ChainId.KOVAN]: '',
-  [ChainId.FANTOM]: '0x7c10108d4b7f4bd659ee57a53b30df928244b354', // todo update address
+  [ChainId.FANTOM]: '0x015f36E3ef7de1c500569E9Dd8a3cB2143841BC4',
   [ChainId.MATIC]: '0x73ED2eD12dad60D0255f787176625060be42C586',
   [ChainId.XDAI]: '',
-  [ChainId.BSC]: '0xdf7C18ED59EA738070E665Ac3F5c258dcc2FBad8', // todo update address
+  [ChainId.BSC]: '0x5DECeB5617C23C55fCFcc829bCA4BCc9e5A0bd05',
   [ChainId.ARBITRUM]: '',
   [ChainId.AVALANCHE]: '',
   [ChainId.HECO]: '',
